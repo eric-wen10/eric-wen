@@ -2,7 +2,7 @@
   "name": "personal-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://eric-wen10.github.io/eric-wen10-github.io",
+  "homepage": "http://eric-wen10.github.io/personal-website",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
