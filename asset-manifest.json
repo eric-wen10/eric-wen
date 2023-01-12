@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/https://eric-wen10.github.io/personal-website/static/css/main.469af8d3.css",
-    "main.js": "/https://eric-wen10.github.io/personal-website/static/js/main.c847ae2b.js",
-    "static/js/787.5809834d.chunk.js": "/https://eric-wen10.github.io/personal-website/static/js/787.5809834d.chunk.js",
-    "static/media/vexteampicture.jpeg": "/https://eric-wen10.github.io/personal-website/static/media/vexteampicture.4c6513df2f015b43ca7c.jpeg",
-    "static/media/antsvsbees.png": "/https://eric-wen10.github.io/personal-website/static/media/antsvsbees.5919b48a8aa8ce8fcb82.png",
-    "static/media/schemeinterpreter.png": "/https://eric-wen10.github.io/personal-website/static/media/schemeinterpreter.28ddc5cdf96a2750048e.png",
-    "static/media/yycelectricalschematics.png": "/https://eric-wen10.github.io/personal-website/static/media/yycelectricalschematics.a237fa018a24c34e98ee.png",
-    "static/media/urcrover.jpeg": "/https://eric-wen10.github.io/personal-website/static/media/urcrover.ac0268367790c73c047d.jpeg",
-    "static/media/ignitelogo.webp": "/https://eric-wen10.github.io/personal-website/static/media/ignitelogo.8a5a7a065188c7417ab8.webp",
-    "index.html": "/https://eric-wen10.github.io/personal-website/index.html",
-    "main.469af8d3.css.map": "/https://eric-wen10.github.io/personal-website/static/css/main.469af8d3.css.map",
-    "main.c847ae2b.js.map": "/https://eric-wen10.github.io/personal-website/static/js/main.c847ae2b.js.map",
-    "787.5809834d.chunk.js.map": "/https://eric-wen10.github.io/personal-website/static/js/787.5809834d.chunk.js.map"
+    "main.css": "/personal-website/static/css/main.469af8d3.css",
+    "main.js": "/personal-website/static/js/main.9e6e1933.js",
+    "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
+    "static/media/vexteampicture.jpeg": "/personal-website/static/media/vexteampicture.4c6513df2f015b43ca7c.jpeg",
+    "static/media/antsvsbees.png": "/personal-website/static/media/antsvsbees.5919b48a8aa8ce8fcb82.png",
+    "static/media/schemeinterpreter.png": "/personal-website/static/media/schemeinterpreter.28ddc5cdf96a2750048e.png",
+    "static/media/yycelectricalschematics.png": "/personal-website/static/media/yycelectricalschematics.a237fa018a24c34e98ee.png",
+    "static/media/urcrover.jpeg": "/personal-website/static/media/urcrover.ac0268367790c73c047d.jpeg",
+    "static/media/ignitelogo.webp": "/personal-website/static/media/ignitelogo.8a5a7a065188c7417ab8.webp",
+    "index.html": "/personal-website/index.html",
+    "main.469af8d3.css.map": "/personal-website/static/css/main.469af8d3.css.map",
+    "main.9e6e1933.js.map": "/personal-website/static/js/main.9e6e1933.js.map",
+    "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.469af8d3.css",
-    "static/js/main.c847ae2b.js"
+    "static/js/main.9e6e1933.js"
   ]
 }
