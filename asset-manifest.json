@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/https://eric-wen10.github.io/eric-wen10.github.io/static/css/main.469af8d3.css",
-    "main.js": "/https://eric-wen10.github.io/eric-wen10.github.io/static/js/main.6383a3cc.js",
-    "static/js/787.5809834d.chunk.js": "/https://eric-wen10.github.io/eric-wen10.github.io/static/js/787.5809834d.chunk.js",
-    "static/media/vexteampicture.jpeg": "/https://eric-wen10.github.io/eric-wen10.github.io/static/media/vexteampicture.4c6513df2f015b43ca7c.jpeg",
-    "static/media/antsvsbees.png": "/https://eric-wen10.github.io/eric-wen10.github.io/static/media/antsvsbees.5919b48a8aa8ce8fcb82.png",
-    "static/media/schemeinterpreter.png": "/https://eric-wen10.github.io/eric-wen10.github.io/static/media/schemeinterpreter.28ddc5cdf96a2750048e.png",
-    "static/media/yycelectricalschematics.png": "/https://eric-wen10.github.io/eric-wen10.github.io/static/media/yycelectricalschematics.a237fa018a24c34e98ee.png",
-    "static/media/urcrover.jpeg": "/https://eric-wen10.github.io/eric-wen10.github.io/static/media/urcrover.ac0268367790c73c047d.jpeg",
-    "static/media/ignitelogo.webp": "/https://eric-wen10.github.io/eric-wen10.github.io/static/media/ignitelogo.8a5a7a065188c7417ab8.webp",
-    "index.html": "/https://eric-wen10.github.io/eric-wen10.github.io/index.html",
-    "main.469af8d3.css.map": "/https://eric-wen10.github.io/eric-wen10.github.io/static/css/main.469af8d3.css.map",
-    "main.6383a3cc.js.map": "/https://eric-wen10.github.io/eric-wen10.github.io/static/js/main.6383a3cc.js.map",
-    "787.5809834d.chunk.js.map": "/https://eric-wen10.github.io/eric-wen10.github.io/static/js/787.5809834d.chunk.js.map"
+    "main.css": "/https://eric-wen10.github.io/eric-wen/static/css/main.469af8d3.css",
+    "main.js": "/https://eric-wen10.github.io/eric-wen/static/js/main.c863b79c.js",
+    "static/js/787.5809834d.chunk.js": "/https://eric-wen10.github.io/eric-wen/static/js/787.5809834d.chunk.js",
+    "static/media/vexteampicture.jpeg": "/https://eric-wen10.github.io/eric-wen/static/media/vexteampicture.4c6513df2f015b43ca7c.jpeg",
+    "static/media/antsvsbees.png": "/https://eric-wen10.github.io/eric-wen/static/media/antsvsbees.5919b48a8aa8ce8fcb82.png",
+    "static/media/schemeinterpreter.png": "/https://eric-wen10.github.io/eric-wen/static/media/schemeinterpreter.28ddc5cdf96a2750048e.png",
+    "static/media/yycelectricalschematics.png": "/https://eric-wen10.github.io/eric-wen/static/media/yycelectricalschematics.a237fa018a24c34e98ee.png",
+    "static/media/urcrover.jpeg": "/https://eric-wen10.github.io/eric-wen/static/media/urcrover.ac0268367790c73c047d.jpeg",
+    "static/media/ignitelogo.webp": "/https://eric-wen10.github.io/eric-wen/static/media/ignitelogo.8a5a7a065188c7417ab8.webp",
+    "index.html": "/https://eric-wen10.github.io/eric-wen/index.html",
+    "main.469af8d3.css.map": "/https://eric-wen10.github.io/eric-wen/static/css/main.469af8d3.css.map",
+    "main.c863b79c.js.map": "/https://eric-wen10.github.io/eric-wen/static/js/main.c863b79c.js.map",
+    "787.5809834d.chunk.js.map": "/https://eric-wen10.github.io/eric-wen/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.469af8d3.css",
-    "static/js/main.6383a3cc.js"
+    "static/js/main.c863b79c.js"
   ]
 }
