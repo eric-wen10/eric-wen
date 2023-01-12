@@ -16,7 +16,7 @@ function Footer() {
                 <GitHubIcon />
             </a>
         </div>
-        <p> &copy; 2023 mywebsiteurl.com</p> 
+        <p> &copy; 2023 ericwen10.com</p> 
         
     </div>
   );
